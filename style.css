@@ -1,0 +1,11 @@
+.users_box {
+    margin-bottom: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    list-style-type: none;
+
+}
+
+.users_box>li {
+    margin-bottom: 4px;
+}
